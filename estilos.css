@@ -1,0 +1,59 @@
+body {
+    background-color: antiquewhite;
+}
+.navbar {
+background-color: rgb(79, 12, 12);
+font-family: Arial, Helvetica, sans-serif;
+margin-bottom: 20px;
+}
+.navbar .navbar-brand {
+    color:antiquewhite;
+}
+.navbar .nav-link {
+    color: rgb(202, 150, 150);
+}
+.dropdown-menu .dropdown-item {
+    color: rgb(33, 6, 6);
+}
+#destacado {
+color:rgb(179, 179, 231);
+}
+.jumbotron {
+    background-color: rgb(126, 83, 83);
+    color:bisque;
+    padding: 20px 0;
+    margin-top: 80px;
+}
+.jumbotron .titulo-blog {
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.post {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #999;
+    background-color: rgb(243, 210, 210);
+}
+.post .post-title a {
+    color: rgb(85, 59, 59);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.post .thumb {
+    margin-right: 10px;
+    width: 40%;
+}
+.post img {
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+}
+.post .contenedor-botones {
+    width: 100%;
+}
+.post .post-fecha {
+    font-style: italic;
+}
